@@ -20,7 +20,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: Johir2028S
+          github_user_name: Johir2028
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Upgraded to v4 to use modern Node runtimes
